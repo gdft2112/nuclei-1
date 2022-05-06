@@ -1,12 +1,2 @@
-shopifycloud.com
-shopifykloud.com
-shopify.com
-shopee.sg
-shopee.cn
-shopee.vn
-shopee.tw
-shopee.co.id
-shopee.co.th
-shopee.com.my
-shopee.io
-sea.com
+lyft.com
+lyft.net
